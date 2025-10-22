@@ -46,7 +46,7 @@ A fonte de **5V do Arduino simulado** alimenta o circuito RC série, e o **pino 
 7. O pino **GND** (Terra) do Arduino é conectado a essa mesma coluna negativa.  
 
 ### Print da Simulação no Tinkercad
-> [SIMULAÇÃO NO TINKERCAD AQUI] ()
+> [SIMULAÇÃO NO TINKERCAD AQUI] (https://drive.google.com/file/d/1_iZxV_svizhs5hp04cq6k7B1kMV2y-68/view?usp=sharing)
 
 ---
 
