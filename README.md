@@ -27,7 +27,7 @@ O objetivo é **validar a teoria de circuitos RC** em um ambiente virtual e demo
 - **Jumpers** (fios de conexão virtuais)
 
 ### Software e Plataformas
-- Navegador Web com acesso ao [Autodesk Tinkercad]([https://www.tinkercad.com/](https://www.tinkercad.com/things/b8jT9mduM9p-brilliant-allis/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=Iz_zsA6vOo7E9jCPr5287HX6PDbfyBHK2Bh49aTfG4M)](https://www.tinkercad.com/things/b8jT9mduM9p-brilliant-allis/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard))
+- Navegador Web com acesso ao [Autodesk Tinkercad](https://www.tinkercad.com/](https://www.tinkercad.com/things/b8jT9mduM9p-brilliant-allis/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=Iz_zsA6vOo7E9jCPr5287HX6PDbfyBHK2Bh49aTfG4M)](https://www.tinkercad.com/things/b8jT9mduM9p-brilliant-allis/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard))
 - **Python 3.x**
 - Bibliotecas Python: `pandas` e `matplotlib`
 
