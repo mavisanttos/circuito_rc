@@ -1,8 +1,8 @@
 # Monitor de Circuito RC com Arduino e Python  
 
-**Autor:** [Seu Nome Completo Aqui]  
+**Autor:** Maria Vitória dos Santos
 **Data:** 22 de outubro de 2025  
-**Disciplina/Contexto:** [Ex: Laboratório de Física, Projeto Pessoal, etc.]  
+**Disciplina/Contexto:** Programação
 
 ---
 
