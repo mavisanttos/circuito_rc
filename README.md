@@ -1,8 +1,8 @@
 # **Documentação: Simulação de Circuito RC com Tinkercad e Python**
 
-**Autor:** `[Seu Nome Completo Aqui]`  
+**Autor:** Maria Vitória dos Santos
 **Data:** 22 de outubro de 2025  
-**Disciplina/Contexto:** `[Ex: Simulação de Circuitos, Projeto Pessoal, etc.]`  
+**Disciplina/Contexto:** Programação
 
 ---
 
@@ -25,7 +25,7 @@ O objetivo é **validar a teoria de circuitos RC** em um ambiente virtual e demo
 - **Jumpers** (fios de conexão virtuais)
 
 ### Software e Plataformas
-- Navegador Web com acesso ao [Autodesk Tinkercad](https://www.tinkercad.com/)
+- Navegador Web com acesso ao [Autodesk Tinkercad]([https://www.tinkercad.com/](https://www.tinkercad.com/things/b8jT9mduM9p-brilliant-allis/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=Iz_zsA6vOo7E9jCPr5287HX6PDbfyBHK2Bh49aTfG4M))
 - **Python 3.x**
 - Bibliotecas Python: `pandas` e `matplotlib`
 
@@ -46,11 +46,7 @@ A fonte de **5V do Arduino simulado** alimenta o circuito RC série, e o **pino 
 7. O pino **GND** (Terra) do Arduino é conectado a essa mesma coluna negativa.  
 
 ### Print da Simulação no Tinkercad
-> [INSERIR UM PRINT DA TELA DA SUA SIMULAÇÃO NO TINKERCAD AQUI.  
-> A IMAGEM DEVE MOSTRAR CLARAMENTE O CIRCUITO MONTADO E AS CONEXÕES.]  
->
-> **Exemplo de como a imagem aparecerá se você usar um link:**  
-> `![Minha Simulação no Tinkercad](https://i.imgur.com/link-da-sua-imagem.png)`
+> [SIMULAÇÃO NO TINKERCAD AQUI] ()
 
 ---
 
