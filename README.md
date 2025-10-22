@@ -167,13 +167,13 @@ O fluxo de trabalho consiste em gerar os dados na nuvem (**Tinkercad**) e analis
 
 ### **Resultado Gráfico 1: Gráficos Lado a Lado**
 
-[Gráficos Separados]((https://drive.google.com/file/d/15mmLDjUja_MBdbXxBXjEkcSrgd8e4slR/view?usp=sharing))
+[Gráficos Separados](https://drive.google.com/file/d/15mmLDjUja_MBdbXxBXjEkcSrgd8e4slR/view?usp=sharing)
 
 ---
 
 ### **Resultado Gráfico 2: Gráfico Comparativo**
 
-[Gráfico Comparativo]((https://drive.google.com/file/d/1f7jeR3h2IkW2Sh2W5wjlYWXJsHRRbtnG/view?usp=sharing))
+[Gráfico Comparativo](https://drive.google.com/file/d/1f7jeR3h2IkW2Sh2W5wjlYWXJsHRRbtnG/view?usp=sharing)
 
 ---
 
