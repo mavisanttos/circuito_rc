@@ -1,7 +1,9 @@
 # **Documentação: Simulação de Circuito RC com Tinkercad e Python**
 
 **Autor:** Maria Vitória dos Santos
+
 **Data:** 22 de outubro de 2025  
+
 **Disciplina/Contexto:** Programação
 
 ---
